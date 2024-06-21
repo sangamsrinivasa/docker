@@ -1,1 +1,1 @@
- This is GIT branch for Docker Jboss image
+This is GIT branch for Jenkins Pipeline groovy scripting
